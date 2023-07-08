@@ -18,7 +18,7 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Token" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, you can interact with it by calling the sayHello function. Click on the "Token" contract in the left-hand sidebar, and then click on the "mint" & "deploy" function and enter the required inputs (address, uint-value) . Finally, click on the "transact" button to execute the functions.
+Once the contract is deployed, you can interact with it by calling the  "mint" and "burn" functions. Click on the "Token" contract in the left-hand sidebar, and then click on the "mint" & "deploy" function and enter the required inputs (address, uint-value) . Finally, click on the "transact" button to execute the functions.
 
 ## Authors
 
